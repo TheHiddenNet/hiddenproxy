@@ -33,7 +33,7 @@ function dj_loading_string(key, defValue) {
 
 
 var dj_loading_logo = new Image();
-dj_loading_logo.src = "html5game/" + dj_loading_string("logo_path", "load.png");
+dj_loading_logo.src = "https://github.com/TheHiddenNet/hiddenproxy/blob/main/games/tiny-fishing/html5game/" + dj_loading_string("logo_path", "load.png");
 
 
 var dj_loading_current = 0;
