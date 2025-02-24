@@ -143,5 +143,80 @@
         "name": "impossiblequiz",
         "url": "/games/impossiblequiz/",
         "image": "https://img.poki-cdn.com/cdn-cgi/image/quality=78,width=314,height=314,fit=cover,f=auto/3cd96c99-46c1-4ff0-b04a-82381ea07349.png"
+    },
+    {
+        "name": "basketbrosio",
+        "url": "/games/basketbrosio/",
+        "image": "https://a.silvergames.com/j/b/basketbros-io.jpg"
+    },
+    {
+        "name": "chrome-dino",
+        "url": "/games/chrome-dino/",
+        "image": "https://img.poki-cdn.com/cdn-cgi/image/quality=78,width=314,height=314,fit=cover,f=auto/9afd3b92ab41ffca7f368a8fcbd6d39a75894efe0edbc14cf1f067cf625e6678.png"
+    },
+    {
+        "name": "cupcake2048",
+        "url": "/games/cupcake2048/",
+        "image": "https://play-lh.googleusercontent.com/tPr661utQmQBG4c2uqY2KcgvQ9a_s36iMg8E0aCtYERKgR7ptV9x30tdqU0dj6pocA"
+    },
+    {
+        "name": "driftboss",
+        "url": "/games/driftboss/",
+        "image": "https://buzzmavo.com/wp-content/uploads/thumbs/custom/0-9/512.jpeg"
+    },
+    {
+        "name": "infinitecraft",
+        "url": "/games/infinitecraft/",
+        "image": "https://static.fanbyte.com/uploads/2024/02/Infinite%20Craft%20Inverted-360x360.jpg"
+    },
+    {
+        "name": "learntofly",
+        "url": "/games/learntofly/",
+        "image": "https://image.spreadshirtmedia.com/image-server/v1/compositions/T210A1PA4301PT17X29Y20D11330543W27177H19067/views/1,width=550,height=550,appearanceId=1,backgroundColor=FFFFFF,noPt=true/learn-to-fly-mens-t-shirt.jpg"
+    },
+    {
+        "name": "learntofly2",
+        "url": "/games/learntofly2/",
+        "image": "https://cdn2.steamgriddb.com/grid/a3c0b5b0ab6605cf6c1d9406b592bbe8.png"
+    },
+    {
+        "name": "meme2048",
+        "url": "/games/meme2048/",
+        "image": "https://play-lh.googleusercontent.com/bZregCeEpzMwRoocLnsYb4Te-vPPHkW1k5H1xsQ3qK9yE00fixpWu5fNsUz3ut2IiDHn"
+    },
+    {
+        "name": "motox3m",
+        "url": "/games/motox3m/",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJCEvsEQS-MH1v6mkNOTnkrHDxmecSo3Th6jV32hv3TRlQWyIYSczPeaExAV4U9yHAn03uGw"
+    },
+    {
+        "name": "motox3mpool",
+        "url": "/games/motox3mpool/",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYCY6c1sKImD4LFm_YyRyzNJDVPmBYPLhUHA&s"
+    },
+    {
+        "name": "motox3mspooky",
+        "url": "/games/motox3mspooky/",
+        "image": "https://img.poki-cdn.com/cdn-cgi/image/quality=78,width=314,height=314,fit=cover,f=auto/3f8a297822df891a1c158576b6461014.png"
+    },
+    {
+        "name": "motox3mwinter",
+        "url": "/games/motox3mwinter/",
+        "image": "https://assets.funnygames.org/9/113559/96003/1024x1024/moto-x3m-winter.webp"
+    },
+    {
+        "name": "vex",
+        "url": "/games/vex/",
+        "image": "https://play-lh.googleusercontent.com/0OnVFzHIMuLLeMjvACoNzxRbungfOH1zH4hUWQnIg5KfM2va_mFssFuRGq26WqWA"
+    },
+    {
+        "name": "vex2",
+        "url": "/games/vex2/",
+        "image": "https://yepicdn.com/system/static/thumbs/tile_thumb/1119/thumb150_vex-2.jpg?1492006228"
+    },
+    {
+        "name": "volley-random",
+        "url": "/games/volley-random/",
+        "image": "https://play-lh.googleusercontent.com/VeKAevaOjPlcyCtOpFY1h6SjwEjnu4ryG3xQ_qw1Muuhrg8pqwhl1aPjWovMkjc0Rc4"
     }
 ]
