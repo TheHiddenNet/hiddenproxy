@@ -1,1 +1,31 @@
-
+<!DOCTYPE html>
+<html>
+<head>
+    
+</head>
+<body>
+  <section class="game-grid" id="game-grid"></section>
+      <script>
+          fetch('games.json')
+      .then(response => {
+          if (!response.ok) {
+              throw new Error('Network response was not ok ' + response.statusText);
+          }
+          return response.json();
+      })
+      .then(games => {
+          const gameGrid = document.getElementById('game-grid');
+          games.forEach(game => {
+              const gameCard = document.createElement('div');
+              gameCard.classList.add('game-card');
+              gameCard.onclick = () => window.location.href = game.url;
+              gameCard.innerHTML = `
+                  <img src="${game.image}" alt="${game.name}">
+                  <h2>${game.name}</h2>
+              `;
+              gameGrid.appendChild(gameCard);
+          });
+      })
+      .catch(error => console.error('There was a problem with the fetch operation:', error));
+    </body>
+    </html>
