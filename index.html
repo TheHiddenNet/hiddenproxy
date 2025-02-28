@@ -14,11 +14,10 @@
     </div>
 
     <script>
-
         document.getElementById('go').onclick = function () {
             let url = document.getElementById('url').value;
             if (!url.startsWith('http')) url = 'https://' + url;
-            window.location.href = '/active/iframe.html#' + document.getElementById('url');
+            window.location.href = '/active/iframe.html#' + encodeURIComponent(url);
         };
     </script>
 </body>
